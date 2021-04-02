@@ -11,3 +11,10 @@ Dentro do diretório heapsort:
 ```
 python3 heapsort.py entrada.data
 ```
+Para alterar os valores de entrada, faça:
+```
+nano entrada.data
+```
+
+## Erros:
+Não deixe linhas em branco (nem a última) no arquivo entradas.data!
