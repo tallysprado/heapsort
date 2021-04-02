@@ -22,9 +22,6 @@ def heapSort(arr):
         arr[i], arr[0] = arr[0], arr[i]
         heap(arr, i, 0)
 
-
-
-
 try:
     file = open(sys.argv[1], "r")
     array = file.read().splitlines()
